@@ -26,4 +26,4 @@ Lee, Yun‐Gyeong, et al. "Development, validation and genetic analysis of a lar
 Jeong, Soon-Chun, et al. "Genetic diversity patterns and domestication origin of soybean." Theoretical and Applied Genetics 132.4 (2019): 1179-1193.
 
 # Citation
-Kyoung Hyoun Kim, et al. "Genome-wide Association and Epistatic Interactions of Flowering Time in Soybean Cultivar." Plos One (On going)
+Kyoung Hyoun Kim, et al. "Genome-wide Association and Epistatic Interactions of Flowering Time in Soybean Cultivar." Plos One (Submit)
