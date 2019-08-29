@@ -1,4 +1,5 @@
 # Soybean_epistasis
+Pulbicably available data of 2,662 soybean cultivar (G. max) accessions from "Genome-wide Association and Epistatic Interactions of Flowering Time in Soybean Cultivar".
 
 # Description
 VCF file containing genotype information for 2,662 soybean cultivar (G.max) accessions.
